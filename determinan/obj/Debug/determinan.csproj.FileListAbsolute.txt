@@ -1,0 +1,8 @@
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\bin\Debug\determinan.exe.config
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\bin\Debug\determinan.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\bin\Debug\determinan.pdb
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\obj\Debug\determinan.csprojResolveAssemblyReference.cache
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\obj\Debug\determinan.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\obj\Debug\determinan.pdb
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\obj\Debug\determinan.MainForm.resources
+C:\Users\Meysam\Documents\SharpDevelop Projects\determinan\determinan\obj\Debug\determinan.csproj.GenerateResource.Cache
